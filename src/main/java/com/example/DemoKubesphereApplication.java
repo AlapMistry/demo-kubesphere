@@ -9,5 +9,4 @@ public class DemoKubesphereApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(DemoKubesphereApplication.class, args);
 	}
-
 }
